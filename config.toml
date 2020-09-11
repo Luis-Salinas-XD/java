@@ -1,0 +1,5 @@
+baseURL = "https://luis-salinas-xd.github.io/java/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo"
+publishDir = "docs"
